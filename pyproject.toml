@@ -11,9 +11,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 
 [project.urls]
-Homepage = "https://github.com/AlexZeGamer/yacc"
-Repository = "https://github.com/AlexZeGamer/yacc"
-Issues = "https://github.com/AlexZeGamer/yacc/issues"
+Homepage = "https://github.com/AlexMalfr/yacc"
+Repository = "https://github.com/AlexMalfr/yacc"
+Issues = "https://github.com/AlexMalfr/yacc/issues"
 
 [project.scripts]
 yacc = "yacc.__main__:main"
