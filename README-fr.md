@@ -1,4 +1,4 @@
-<!-- Github : https://github.com/AlexZeGamer/yacc -->
+<!-- Github : https://github.com/AlexMalfr/yacc -->
 
 # YACC (Yet Another C Compiler)
 
@@ -35,7 +35,7 @@
 
 1. Cloner le dépôt :
     ```bash
-    git clone https://github.com/AlexZeGamer/yacc.git
+    git clone https://github.com/AlexMalfr/yacc.git
     cd yacc
     ```
 
@@ -358,6 +358,6 @@ graph TB
 <table>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/54336210" width="75" height="75"></td>
-    <td>Alexandre MALFREYT (<a href="https://github.com/AlexZeGamer">Github</a> | <a href="https://www.linkedin.com/in/alexandre-malfreyt/">LinkedIn</a> | <a href="https://alexandre.malfre.yt">Site web</a>)</td>
+    <td>Alexandre MALFREYT (<a href="https://github.com/AlexMalfr">Github</a> | <a href="https://www.linkedin.com/in/alexandre-malfreyt/">LinkedIn</a> | <a href="https://alexandre.malfre.yt">Site web</a>)</td>
   </tr>
 </table>
